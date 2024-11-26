@@ -1,0 +1,7 @@
+C:\Users\harve\source\repos\tema7.2\tema7.2\bin\Debug\tema7.2.exe.config
+C:\Users\harve\source\repos\tema7.2\tema7.2\bin\Debug\tema7.2.exe
+C:\Users\harve\source\repos\tema7.2\tema7.2\bin\Debug\tema7.2.pdb
+C:\Users\harve\source\repos\tema7.2\tema7.2\obj\Debug\tema7.2.csproj.AssemblyReference.cache
+C:\Users\harve\source\repos\tema7.2\tema7.2\obj\Debug\tema7.2.csproj.CoreCompileInputs.cache
+C:\Users\harve\source\repos\tema7.2\tema7.2\obj\Debug\tema7.2.exe
+C:\Users\harve\source\repos\tema7.2\tema7.2\obj\Debug\tema7.2.pdb
